@@ -1,0 +1,87 @@
+body{
+    background-color: orange;
+}
+
+h3{
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+}
+
+#btn{
+    font-size: 24px;
+    background-color: yellow;
+    cursor: pointer;
+    border: 1px solid yellow;
+    margin: 16px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 16px 16px;
+    color: black;
+    border-radius: 16px;
+}
+
+#btn:hover{
+    background-color: lime;
+    border: 1px solid lime;
+    cursor: pointer;
+}
+
+#btn2{
+    font-size: 24px;
+    background-color: yellow;
+    cursor: pointer;
+    border: 1px solid yellow;
+    margin: 16px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 16px 16px;
+    color: black;
+    border-radius: 16px;
+}
+
+#btn2:hover{
+    background-color: lime;
+    border: 1px solid lime;
+    cursor: pointer;
+}
+
+#div{
+    height: 200px;
+    width: 200px;
+    margin: 16px;
+    background-color: tomato;
+    border-radius: 24px;
+    border: 1px solid tomato;
+}
+
+h4{
+    font-size: 24px;
+    text-decoration: underline;
+    color: red;
+}
+
+span{ 
+    font-size: 16px;
+    font-weight: 600;
+}
+
+input{
+    background-color: transparent;
+    padding: 8px;
+    border-radius: 16px;
+    color: black;
+}
+
+.btn3{
+    font-size: 24px;
+    background-color: yellow;
+    cursor: pointer;
+    border: 1px solid yellow;
+    margin: 16px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 16px 16px;
+    color: black;
+    border-radius: 16px;
+}
